@@ -1,3 +1,8 @@
+Sudoku is a very popular game which consists only in numbers and logic. The long and interesting history of the Sudoku is quite a puzzle in itself. Even though the name derives from the Japanese language, consisting on the Japanese characters Su (meaning 'number') and Doku (meaning 'single') but it was not invented in Japan.
+
+It all begins with a Swiss genius, Leonard Euler, a mathematician who owns the credits of the creation of the puzzle that we know as Sudoku. A brief and localized version of "Magic Squares" appeared as a newspaper puzzle between about 1890 and 1920 in France, but it didn't gain any kind of popularity. Than Sudoku Puzzle had its journey to America, where after 50 years the puzzle was introduced by Howard Garnes in the American Dell magazine. The puzzle had its spread over the Pacific to Japan and very soon it become a worldwide phenomenon.
+
+
 # Introduction
 These are a suite of C++ programs which deal with Sudoku Puzzles. The name might be misleading, yes, but these programs don't just solve Sudoku puzzles, they also achieve other objectives such as Sudoku Puzzle Validation and Sudoku Puzzle Generation (Under development).
 
@@ -116,5 +121,5 @@ The workings of the Sudoku Validator are quite simple, to be honest. Here's a si
 * Aravind B - Puzzle Display Design Ideas
 
 ## Tools
-* Vim Editor
+* VS Code Editor
 * Clang C++ Compiler
